@@ -1,0 +1,12 @@
+{
+  "name": "alfred-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "groq-sdk": "^0.3.0"
+  }
+}
